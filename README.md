@@ -6,5 +6,7 @@ These are my course projects for AI course. We have 6 projects this semester, an
 * [CA 1]( https://github.com/alish9776/Artificial-Intelligence-Projects/tree/master/Assignment%201): Implementing uninformed search such as ``BFS`` and ``IDS``, and informed search such as ``A*``  for ``Pac-Man`` with two agents and three different kinds of food. 
 * [CA 2]( https://github.com/alish9776/Artificial-Intelligence-Projects/tree/master/Assignment%202): Finding the best possible score that our agent could achieve, for a game with ``minimax`` and ``alpha-beta pruning``  algorithms. 
 * [CA 3]( https://github.com/alish9776/Artificial-Intelligence-Projects/tree/master/Assignment%203): Predicting the poet of the hemistichs using ``naïve Bayes`` algorithm.
+* [CA 4]( https://github.com/alish9776/Artificial-Intelligence-Projects/tree/master/Assignment%204): diagnosing diseases using ``Decision Tree`` algorithm. ( ``Random Forest``, ``Bootstrapping``, ``Bagging`` ) 
+* [CA 5]( https://github.com/alish9776/Artificial-Intelligence-Projects/tree/master/Assignment%205): Implementing Neural Network (``MIT lab project``, ``Regularization``, ``Chain rule``, ``Backward Propagation``, ``Two Moon Dataset``, ``L2 Algorithm``)
 
 **Note 1**: My reports for the assignments are written in Persian because it was a rule of our course.
